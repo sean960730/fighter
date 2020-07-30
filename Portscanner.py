@@ -5,7 +5,7 @@ import socket
 Port = []
 def lists():
    global Port
-   for I in range(1200):
+   for l in range(1200):
           if l >= 1200:
                 break
           else:
