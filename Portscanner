@@ -20,7 +20,7 @@ def scanner(host):
                      Port.remove(s)
          for w in Port:
                print(“%s port number :  %d is open”%(host,Port))
-         print(“scam compiled “)
+         print(“scan compiled “)
          return
 def main():
            host = str(input(“Host: “))
